@@ -1,0 +1,7 @@
+token.txt
+*.class
+bin/
+.classpath
+.project
+.gradle/
+.settings/
