@@ -4,7 +4,7 @@ plugins {
   id 'com.github.johnrengelman.shadow' version '5.2.0'
 }
 
-mainClassName = 'com.example.jda.Bot'
+mainClassName = 'bot.automato.Automato'
 
 version = '1.0'
 
