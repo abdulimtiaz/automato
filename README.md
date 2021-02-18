@@ -1,4 +1,4 @@
-# automato
+# Automato
 A Discord bot using the JDA Discord API wrapper
 
 ## Running the bot (Windows)
